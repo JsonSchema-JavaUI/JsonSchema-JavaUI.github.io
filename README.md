@@ -1,4 +1,3 @@
-# jsonschema-javaui.github.io
 This is the source of SF Java UI's public [Web site](https://jsonschema-javaui.github.io/).
 =======
 
